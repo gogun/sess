@@ -1,0 +1,9 @@
+===TREE===
+left : 1;  root : 3  right : 5;  
+left : nil; root : 1  right : 2;  
+left : nil; root : 2  right : nil; 
+left : nil; root : 5  right : 7;  
+left : nil; root : 7  right : nil; 
+===LEAFS FROM RIGHT TO LEFT===
+ITS LEAF : 7
+ITS LEAF : 2
