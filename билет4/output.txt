@@ -1,0 +1,21 @@
+================RIGHT-ROOT-LEFT================
+====looks nice FROM TREE======
+Right: P  Root: I  Left: H  
+Right: R  Root: P  Left: I  
+Right: Y  Root: R  Left: nil  
+Right: nil  Root: Y  Left: R  
+Right: nil  Root: R  Left: nil  
+Right: O  Root: I  Left: nil  
+Right: O  Root: O  Left: J  
+Right: nil  Root: O  Left: nil  
+Right: nil  Root: J  Left: nil  
+Right: H  Root: H  Left: nil  
+Right: H  Root: H  Left: nil  
+Right: H  Root: H  Left: nil  
+Right: H  Root: H  Left: nil  
+Right: H  Root: H  Left: nil  
+Right: nil  Root: H  Left: nil  
+====looks bad FROM LIST======
+Y R R P O O J I I H H H H H H 
+====looks bad FROM TREE======
+Y R R P O O J I I H H H H H H (its really from tree)

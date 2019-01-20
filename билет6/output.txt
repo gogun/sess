@@ -1,0 +1,18 @@
+===HAVE===
+ioebnfiwb 3
+nwoiefjhw 7
+qdqwhiup  5
+wefliguie 8
+sdfnbwefb 1
+===NEED===
+ioebnfiwb 2
+nwoiefjhw 7
+qdqwhiup  3
+wefliguie 1
+sdfnbwefb 2
+===HAVE(AFTER)===
+ioebnfiwb 1
+qdqwhiup  2
+wefliguie 7
+===NEED(AFTER)===
+sdfnbwefb 1

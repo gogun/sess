@@ -1,0 +1,26 @@
+====NON SORTED====
+1241 Gndreev  blablabla 1921 12
+1987 Furtick  blablabla 1921 12
+7871 Anusov   blablabla 1921 12
+5761 Eclemenk blablabla 1921 12
+
+======SORTED======
+7871 Anusov   blablabla 1921 12
+5761 Eclemenk blablabla 1921 12
+1987 Furtick  blablabla 1921 12
+1241 Gndreev  blablabla 1921 12
+
+====NON SORTED====
+1241 Gndreev  blablabla 1921 12
+1987 Furtick  blablabla 1921 12
+7871 Anusov   blablabla 1921 12
+5761 Eclemenk blablabla 1921 12
+7871 Bnusov   blablabla 1921 12
+
+======SORTED======
+7871 Anusov   blablabla 1921 12
+7871 Bnusov   blablabla 1921 12
+5761 Eclemenk blablabla 1921 12
+1987 Furtick  blablabla 1921 12
+1241 Gndreev  blablabla 1921 12
+

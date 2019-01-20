@@ -1,0 +1,18 @@
+====NON SORTED ALL====
+Delisle   3
+Gilbert   7
+Lefebvre  5
+Bonnet    1
+Ruelý     9
+====SORTED SURBANES====
+Bonnet    
+Delisle   
+Gilbert   
+Lefebvre  
+Ruelý     
+====SORTED NUMBERS====
+1
+3
+5
+7
+9

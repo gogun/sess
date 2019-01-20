@@ -1,0 +1,6 @@
+Pasha,33
+Sasha,56
+Mark,12
+Ilya,23
+Markelov,18
+Cark,12
