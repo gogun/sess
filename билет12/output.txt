@@ -1,0 +1,24 @@
+===RIGHT DIRECTION
+1 niieirhsu niieirhs 1212 1212
+2 bueiuwefu niieirhs 1212 1212
+3 buuwehfiw niieirhs 1212 1212
+4 nkqfhioiw niieirhs 1212 1212
+5 uiiwevhbw niieirhs 1212 1212
+===REVERSE DIRECTION
+5 uiiwevhbw niieirhs 1212 1212
+4 nkqfhioiw niieirhs 1212 1212
+3 buuwehfiw niieirhs 1212 1212
+2 bueiuwefu niieirhs 1212 1212
+1 niieirhsu niieirhs 1212 1212
+===RIGHT DIRECTION
+5 uiiwevhbw niieirhs 1212 1212
+4 nkqfhioiw niieirhs 1212 1212
+1 niieirhsu niieirhs 1212 1212
+3 buuwehfiw niieirhs 1212 1212
+2 bueiuwefu niieirhs 1212 1212
+===REVERSE DIRECTION
+2 bueiuwefu niieirhs 1212 1212
+3 buuwehfiw niieirhs 1212 1212
+1 niieirhsu niieirhs 1212 1212
+4 nkqfhioiw niieirhs 1212 1212
+5 uiiwevhbw niieirhs 1212 1212
