@@ -1,5 +1,5 @@
-﻿program sess17;
-type 
+program sess17;
+type
   link = ^uk;
   uk = record
     num : integer;
@@ -10,11 +10,12 @@ type
     num : integer;
     name :string[16];
   end;
+  t = file of tt;
 var
 beg1, beg2, last1,last2: link;
-f1,f2 : file of tt;
+f1,f2 : t;
 f3,f4,f5 : text;
-procedure p1(var f1 : file of tt; var f : text);
+procedure p1(var f1 : t;var f : text);
 var
 data :tt;
 begin
@@ -24,7 +25,7 @@ begin
     write(f1, data);
   end;
 end;
-procedure p2(var f : file of tt; var beg :link; var last: link);
+procedure p2(var f : t; var beg :link; var last: link);
 var
 tek : link;
 k : tt;
@@ -46,7 +47,6 @@ begin
   tek^.name := 'zzzzzzzzzzzzzzzz';
   tek^.next := nil;
   last := tek;
-  //while beg <> nil do begin writeln(beg^.num);beg:=beg^.next; end;
   while not eof(f) do
   begin
     tek:=beg;
@@ -67,7 +67,7 @@ begin
   end;
 end;
 procedure p4(var beg1 : link;var beg2 : link;var last1 : link;var last2 : link);
-var 
+var
 ne : link;
 tek1 : link;
 tek2 : link;
@@ -82,7 +82,7 @@ begin
   ne^.num := tek2^.num;
   ne^.next := tek1^.next;
   tek1^.next := ne;
-  
+
   tek2 := tek2^.next;
 end;
 end;
